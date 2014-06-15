@@ -11,10 +11,12 @@ title: Home
     {% endfor %}
     </ul>
 
+    {% comment %}
     <h2>Guías</h2>
     <ul>
     {% for post in site.categories.guias %}
         <li><a href="{{ post.url }}">{{ post.title }}</a> (<date>{{ post.date | date_to_string }}</date>)</li>
     {% endfor %}
     </ul>
+    {% endcomment %}
 </div>

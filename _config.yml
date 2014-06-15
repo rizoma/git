@@ -5,6 +5,7 @@ highlighter:      pygments
 # Permalinks
 permalink:        ":categories/:title/"
 baseurl:          /git
+relative_permalinks: true
 
 # Setup
 title:            'Git y Github'

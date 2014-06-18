@@ -22,6 +22,13 @@ Facilitador: Luis Borjas (lfborjas@unitec.edu)
 * [Github Training](http://training.github.com/)
 * [Ayuda de Github](https://help.github.com/)
 
+### Artículos
+
+* [The git parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
+* [(avanzado) a hacker's guide to git](http://wildlyinaccurate.com/a-hackers-guide-to-git)
+* [guía sobre línea de comandos](http://intro-linux.github.io/labs/linux-cli.html)
+
+
 
 ## Instalando git
 

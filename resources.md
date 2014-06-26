@@ -27,6 +27,7 @@ Facilitador: Luis Borjas (lfborjas@unitec.edu)
 * [The git parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 * [(avanzado) a hacker's guide to git](http://wildlyinaccurate.com/a-hackers-guide-to-git)
 * [guía sobre línea de comandos](http://intro-linux.github.io/labs/linux-cli.html)
+* [cuidado con las pull requests de GitHub](http://blog.spreedly.com/2014/06/24/merge-pull-request-considered-harmful/#.U6uGUo1dVQY)
 
 
 

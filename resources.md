@@ -28,6 +28,7 @@ Facilitador: Luis Borjas (lfborjas@unitec.edu)
 * [(avanzado) a hacker's guide to git](http://wildlyinaccurate.com/a-hackers-guide-to-git)
 * [guía sobre línea de comandos](http://intro-linux.github.io/labs/linux-cli.html)
 * [cuidado con las pull requests de GitHub](http://blog.spreedly.com/2014/06/24/merge-pull-request-considered-harmful/#.U6uGUo1dVQY)
+* [origen de los identificadores de objetos](http://alblue.bandlem.com/2011/08/git-tip-of-week-objects.html)
 
 
 
